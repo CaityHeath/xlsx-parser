@@ -18,7 +18,7 @@
   "homepage": "https://github.com/CaityHeath/xlsx-parser#readme",
   "dependencies": {
     "csvtojson": "^2.0.10",
-    "xlsx": "^0.15.1",
+    "xlsx": "^0.17.0",
     "xlsx-parse-json": "^3.0.3"
   }
 }
